@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sim_u_kraft.iml" filepath="$PROJECT_DIR$/.idea/modules/sim_u_kraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sim_u_kraft_api.iml" filepath="$PROJECT_DIR$/.idea/modules/sim_u_kraft_api.iml" group="sim_u_kraft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sim_u_kraft_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sim_u_kraft_main.iml" group="sim_u_kraft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sim_u_kraft_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sim_u_kraft_test.iml" group="sim_u_kraft" />
+    </modules>
+  </component>
+</project>

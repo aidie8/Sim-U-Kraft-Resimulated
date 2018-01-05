@@ -1,0 +1,5 @@
+package ashjack.simukraftreloaded.packetsNEW.toClient;
+
+public class UpdateMoney {
+
+}

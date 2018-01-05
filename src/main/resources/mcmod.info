@@ -1,0 +1,18 @@
+[
+{
+  "modid" : "ashjacksimukraftreloaded",
+  "name" : "Sim-U-Kraft Reloaded",
+  "version" : "1.0.1e",
+  "url" : "http://satscape.wordpress.com/sim-u-kraft",
+  "credits" : "Original Programming and graphics by Scott Hather, Documentation by Subrina Gass, Update by AshJack",
+  "authors": [
+    "Satscape (Scott Hather), AshJack"
+  ],
+  "description": "Spawns Sim-U-Folks (NPCs) into your world, you can employ them to Build, mine, farm, bake, terraform and much more! Contains over 200 houses and buildings for them to build and live in, get them to build your own designs and share them with other players. The mod has aspects of Sim city and the Sims, it's also a bit like Buildcraft/IndustrialCraft but with People-power instead of machine power.",
+  "logoFile" : "/assets/ashjacksimukraftreloaded/suklogo.png",
+  "updateUrl" : "",
+  "parent" : "",
+  "screenshots": [
+  ]
+}
+]
